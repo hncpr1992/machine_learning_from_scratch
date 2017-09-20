@@ -6,4 +6,4 @@ This repo include my implementation of common machine learning models from scrat
 KNN<br>
 Logistic Regression<br>
 Multiple-layer Neural Network<br>
-
+K-means<br>
